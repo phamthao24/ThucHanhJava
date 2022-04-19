@@ -1,4 +1,4 @@
-package shape;
+package slide54.shape;
 import java.net.PortUnreachableException;
 import java.util.Scanner;
 public class hinhTru extends hinhTron{

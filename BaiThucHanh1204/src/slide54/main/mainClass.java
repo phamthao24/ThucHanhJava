@@ -1,8 +1,8 @@
-package main;
-import shape.hinhChuNhat;
-import shape.hinhTron;
-import shape.hinhTru;
-import shape.hinhVuong;
+package slide54.main;
+import slide54.shape.hinhChuNhat;
+import slide54.shape.hinhTron;
+import slide54.shape.hinhTru;
+import slide54.shape.hinhVuong;
 
 public class mainClass{
     public static void main(String[]args)

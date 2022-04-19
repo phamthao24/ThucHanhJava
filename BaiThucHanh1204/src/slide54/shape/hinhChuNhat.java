@@ -1,4 +1,4 @@
-package shape;
+package slide54.shape;
 import java.util.Scanner;
 public class hinhChuNhat extends HinhHoc{
     public float dai;

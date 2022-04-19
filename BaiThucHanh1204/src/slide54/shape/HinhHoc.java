@@ -1,4 +1,4 @@
-package shape;
+package slide54.shape;
 public class HinhHoc{
     public final float pi=3.14f;
 
