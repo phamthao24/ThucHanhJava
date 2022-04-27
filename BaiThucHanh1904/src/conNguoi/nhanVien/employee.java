@@ -29,5 +29,6 @@ public class employee extends person{
     }
     public int luongNV(){
         return luong;
+        
     }
 }

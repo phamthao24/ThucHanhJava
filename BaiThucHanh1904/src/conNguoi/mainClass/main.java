@@ -1,5 +1,5 @@
 
-package mainClass; 
+package conNguoi.mainClass; 
 
 import conNguoi.khachHang.customer;
 import conNguoi.khachHang.VIPCustomer;
