@@ -4,14 +4,14 @@ import java.util.Scanner;
 public class app56 {
     public static void main(String[] args) {
         Scanner sc = new Scanner( System.in);
-        String name;
+        String name ;
         System.out.print("nhap so luong ten muon them:  ");
         int soLuongTen = sc.nextInt();
 
         HashSet <String> hashSetString = new HashSet<>();
         for(int i=0; i<soLuongTen; i++)
         {   
-            System.out.print("ten thu "+(i+1) + " : ");
+            System.out.println("ten thu "+(i+1) + " : ");
             name = sc.nextLine();
             hashSetString.add(name);
         }

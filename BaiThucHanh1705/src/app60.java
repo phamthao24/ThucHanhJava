@@ -1,19 +1,18 @@
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-public class app60 {
+public class app60
+{
     public static void main(String[] args) {
-        Set<String> linkedHSet = new LinkedHashSet<String>();
-        linkedHSet.add("java");
-        linkedHSet.add("c++");
-        linkedHSet.add("php");
-        linkedHSet.add("c sharp");
+        Set<String> linkedhSet= new LinkedHashSet<>();
+        linkedhSet.add("pham");
+        linkedhSet.add("thao");
 
-        //show
-        for(String i: linkedHSet)
+        for(String i: linkedhSet)
         {
             System.out.println(i);
         }
-
     }
 }
+
+
