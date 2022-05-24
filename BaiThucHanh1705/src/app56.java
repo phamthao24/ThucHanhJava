@@ -6,7 +6,7 @@ public class app56 {
         Scanner sc = new Scanner( System.in);
         String name ;
         System.out.print("nhap so luong ten muon them:  ");
-        int soLuongTen = sc.nextInt();
+        int soLuongTen =  Integer.parseInt(sc.nextLine());
 
         HashSet <String> hashSetString = new HashSet<>();
         for(int i=0; i<soLuongTen; i++)
